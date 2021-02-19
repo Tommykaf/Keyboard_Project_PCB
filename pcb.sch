@@ -11327,10 +11327,8 @@
 <net name="N$81" class="0">
 <segment>
 <pinref part="R_FN" gate="G$1" pin="P1"/>
-<wire x1="320.04" y1="-63.5" x2="322.58" y2="-63.5" width="0.1524" layer="91"/>
 <pinref part="ZERO" gate="G$1" pin="P1"/>
 <wire x1="322.58" y1="48.26" x2="322.58" y2="20.32" width="0.1524" layer="91"/>
-<junction x="322.58" y="-63.5"/>
 <pinref part="P" gate="G$1" pin="P1"/>
 <wire x1="322.58" y1="20.32" x2="322.58" y2="-7.62" width="0.1524" layer="91"/>
 <junction x="322.58" y="20.32"/>
