@@ -11,6 +11,7 @@ A Keyboard pcb modeled by @tommykark03, @thunde7, @wifi and @staveyal
 RESISTORS:
 - 22 OHM - 0603WAF220JT5E
 - 10k OHM - 0603WAF1002T5E
+- 5.1K OHM - 0603WAF5101T5E
 
 CAPACITORS:
 - 1uF - CL10A105KB8NNNC
@@ -23,6 +24,8 @@ Quartz:
 Tactile reset:
 - PANASONIC EVPBB4A9B000
 
+Ferrite Bead:
+- GZ1608D601TF
 
 ## layout
 
